@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "573188294868",
+    "project_id": "myapplication-64a70",
+    "storage_bucket": "myapplication-64a70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573188294868:android:6dfe710fe97a8518525341",
+        "android_client_info": {
+          "package_name": "com.kenkaka.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573188294868-ost9lqio30cs43e6vsmfe2basf6eg7sf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kenkaka.myapplication",
+            "certificate_hash": "dcf5201ec6b24a2495609c45f2a9f19631136e5f"
+          }
+        },
+        {
+          "client_id": "573188294868-303q32gtdenp591i15poko9fqkq0bca4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPyFbQzjFlzrgVZljWH-M5iKNmpIns228"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573188294868-303q32gtdenp591i15poko9fqkq0bca4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
